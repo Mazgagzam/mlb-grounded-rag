@@ -1,0 +1,31 @@
+{
+  "harbor_city_herons": {
+    "data": {
+      "team_profile": {
+        "market": "Harbor City",
+        "name": "Herons",
+        "abbr": "HCH"
+      },
+      "2025": {
+        "REG": {
+          "pitching": {
+            "overall": {
+              "bb": 430,
+              "win": 85,
+              "loss": 77
+            }
+          }
+        },
+        "PRE": {
+          "pitching": {
+            "overall": {
+              "bb": 71,
+              "win": 14,
+              "loss": 13
+            }
+          }
+        }
+      }
+    }
+  }
+}
