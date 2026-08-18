@@ -1,0 +1,5 @@
+-r requirements.txt
+sentence-transformers
+torch
+transformers
+accelerate
